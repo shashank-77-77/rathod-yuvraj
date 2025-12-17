@@ -28,7 +28,7 @@ Statistics
 
 <p align="center">
   <a href="https://github.com/rathod-yuvraj">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathod-yuvraj&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathod-yuvraj&theme=radical&border=7F3FBF&background=0D1117" alt="Yuvraj Rathod GitHub streak"/>
   </a>
 </p>
 
